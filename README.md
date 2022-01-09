@@ -103,11 +103,6 @@
 ### 🤹‍♀️ <a href="https://qwq3.top/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://qwq3.top/posts/aa28.html' target='_blank'>彻底搞懂 HTTPS 的加密原理</a> - 2021-12-11
-* <a href='https://qwq3.top/posts/85fb.html' target='_blank'>TypeScript的基本使用</a> - 2021-11-07
-* <a href='https://qwq3.top/posts/f748.html' target='_blank'>Vuex 的状态管理</a> - 2021-10-30
-* <a href='https://qwq3.top/posts/823a.html' target='_blank'>VueRouter 路由使用</a> - 2021-10-21
-* <a href='https://qwq3.top/posts/24d6.html' target='_blank'>Vue3 源码解析</a> - 2021-10-15
 <!-- END_SECTION:blog -->
 
 </td>
@@ -116,8 +111,9 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/3642843/' target='_blank'>看过星际迷航2：暗黑无界</a> - 2013-06-14
 <!-- END_SECTION:douban -->
+
+</table>
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
