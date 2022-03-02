@@ -20,3 +20,4 @@ jobs:
           SHOW_SHORT_INFO : "False"
           SHOW_PROJECTS : "False"
           SHOW_TITLE : true
+          SHOW_COMMIT: true
