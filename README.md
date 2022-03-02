@@ -128,6 +128,16 @@
 <td valign="top">
 
 <!--START_SECTION:waka-->
+
+```text
+YAML         3 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.20 %
+Markdown     2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+JavaScript   2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+JSON         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Vue.js       1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+TypeScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+```
+
 <!--END_SECTION:waka-->
 
 </tr>
