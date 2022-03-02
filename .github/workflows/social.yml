@@ -16,6 +16,6 @@ jobs:
         with:
           blog_rss_link: https://qwq3.top/atom.xml #your blog rss link
           blog_limit: 5 # blog数量
-          douban_name: anzhiyu
+          douban_name: 252613592
           douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated social rss by social-readme # commit说明
