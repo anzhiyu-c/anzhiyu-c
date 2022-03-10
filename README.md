@@ -126,16 +126,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2022 - To: 08 March 2022
+From: 07 February 2022 - To: 09 March 2022
 
-Total Time: 88 hrs 1 min
+Total Time: 89 hrs 28 mins
 
-Vue.js          43 hrs 53 mins  ████████████▒░░░░░░░░░░░░   49.77 %
-YAML            12 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-TypeScript      12 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-JavaScript      5 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Markdown        4 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JSON            4 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Vue.js          44 hrs 28 mins  ████████████▒░░░░░░░░░░░░   49.61 %
+TypeScript      13 hrs 16 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+YAML            12 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+JavaScript      5 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Markdown        4 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+JSON            4 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
