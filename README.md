@@ -100,7 +100,7 @@
 <tr>
 <td valign="top">
 
-### 🤹‍♀️ <a href="https://qwq3.top/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://blog.anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 
