@@ -103,7 +103,11 @@
 ### 🤹‍♀️ <a href="https://blog.anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://blog.anzhiy.cn/posts/b1d7.html' target='_blank'>cloudreve pdf预览偶尔出错修复方案</a> - 2022-06-12
+* <a href='https://blog.anzhiy.cn/posts/9bd.html' target='_blank'>butterfly 重装指南</a> - 2022-06-08
+* <a href='https://blog.anzhiy.cn/posts/xoan.html' target='_blank'>cloudreve网盘魔改前置教程</a> - 2022-06-07
+* <a href='https://blog.anzhiy.cn/posts/8645.html' target='_blank'>数据结构复习题</a> - 2022-02-23
+* <a href='https://blog.anzhiy.cn/posts/aa28.html' target='_blank'>彻底搞懂 HTTPS 的加密原理</a> - 2021-12-11
 <!-- END_SECTION:blog -->
 
 </td>
