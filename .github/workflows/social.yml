@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: anzhiyu-c/social-readme@master
         with:
-          blog_rss_link: https://blog.anzhiy.cn.top/atom.xml #your blog rss link
+          blog_rss_link: https://blog.anzhiy.cn/atom.xml #your blog rss link
           blog_limit: 5 # blog数量
           douban_name: 252613592
           douban_limit: 5 # 豆瓣最新动态数量
