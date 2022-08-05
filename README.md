@@ -103,7 +103,11 @@
 ### 🤹‍♀️ <a href="https://blog.anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://anzhiy.cn/posts/15d8.html' target='_blank'>Vite 3.0发布, 下一代前端构建工具</a> - 2022-07-18
+* <a href='https://anzhiy.cn/posts/fe76.html' target='_blank'>目前可用cdn整理</a> - 2022-07-16
+* <a href='https://anzhiy.cn/posts/b1d7.html' target='_blank'>cloudreve pdf预览偶尔出错修复方案</a> - 2022-06-12
+* <a href='https://anzhiy.cn/posts/9bd.html' target='_blank'>butterfly 重装指南</a> - 2022-06-08
+* <a href='https://anzhiy.cn/posts/xoan.html' target='_blank'>cloudreve网盘魔改前置教程</a> - 2022-06-07
 <!-- END_SECTION:blog -->
 
 </td>
