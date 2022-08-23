@@ -155,7 +155,7 @@ Pug              2 hrs 17 mins   █░░░░░░░░░░░░░░�
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
+  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
 </div>
 
 # 🤝 Social
