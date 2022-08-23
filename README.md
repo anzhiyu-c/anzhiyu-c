@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://qwq3.top/">
+  <a href="https://anzhiy.cn/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
@@ -70,15 +70,15 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<div align="center"><img src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/personal-homepage-banner.jpg" /></div>
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
 # 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
-  <img width="150" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
 <!-- metrics 基础资料 -->
