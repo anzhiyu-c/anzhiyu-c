@@ -103,11 +103,11 @@
 ### 🤹‍♀️ <a href="https://blog.anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://anzhiy.cn/posts/521a.html' target='_blank'>vue朝花夕拾</a> - 2022-09-09
+* <a href='https://anzhiy.cn/posts/443e.html' target='_blank'>Mac上配置多个SSH</a> - 2022-09-09
 * <a href='https://anzhiy.cn/posts/e8da.html' target='_blank'>macOS 安装 Mysql 和 Navicat</a> - 2022-09-05
 * <a href='https://anzhiy.cn/posts/cf4f.html' target='_blank'>给butterfly添加github贡献图(Gitcalendar)</a> - 2022-08-29
 * <a href='https://anzhiy.cn/posts/fc18.html' target='_blank'>给butterfly添加侧边栏电子钟</a> - 2022-08-26
-* <a href='https://anzhiy.cn/posts/571d.html' target='_blank'>macbook pro 2021真实体验</a> - 2022-08-24
-* <a href='https://anzhiy.cn/posts/asdx.html' target='_blank'>使用 Github Action 自动部署</a> - 2022-08-06
 <!-- END_SECTION:blog -->
 
 </td>
