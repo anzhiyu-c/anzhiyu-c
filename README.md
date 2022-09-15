@@ -103,7 +103,7 @@
 ### 🤹‍♀️ <a href="https://blog.anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://anzhiy.cn/posts/8e53.html' target='_blank'>butterfly导航栏修改方案</a> - 2022-09-12
+* <a href='https://anzhiy.cn/posts/8e53.html' target='_blank'>butterfly导航栏修改方案(自用方案)</a> - 2022-09-12
 * <a href='https://anzhiy.cn/posts/292d.html' target='_blank'>给butterfly添加不一样的友链</a> - 2022-09-12
 * <a href='https://anzhiy.cn/posts/521a.html' target='_blank'>vue朝花夕拾</a> - 2022-09-09
 * <a href='https://anzhiy.cn/posts/443e.html' target='_blank'>Mac上配置多个SSH</a> - 2022-09-09
