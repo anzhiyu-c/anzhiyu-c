@@ -103,7 +103,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://anzhiy.cn/posts/aa50.html' target='_blank'>vscode常用插件推荐</a> - 2022-09-28
+* <a href='https://anzhiy.cn/posts/52d8.html' target='_blank'>Heo同款loading动画</a> - 2022-09-16
+* <a href='https://anzhiy.cn/posts/8e53.html' target='_blank'>butterfly导航栏修改方案(自用方案)</a> - 2022-09-12
+* <a href='https://anzhiy.cn/posts/292d.html' target='_blank'>给butterfly添加不一样的友链</a> - 2022-09-12
+* <a href='https://anzhiy.cn/posts/521a.html' target='_blank'>vue朝花夕拾01</a> - 2022-09-09
 <!-- END_SECTION:blog -->
 
 </td>
