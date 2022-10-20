@@ -103,11 +103,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://anzhiy.cn/posts/4190.html' target='_blank'>Safari浏览器兼容正则表达式零宽断言</a> - 2022-10-19
 * <a href='https://anzhiy.cn/posts/4a9f.html' target='_blank'>vue朝花夕拾04</a> - 2022-10-18
 * <a href='https://anzhiy.cn/posts/88de.html' target='_blank'>vue朝花夕拾03</a> - 2022-10-17
 * <a href='https://anzhiy.cn/posts/495f.html' target='_blank'>vue朝花夕拾02</a> - 2022-10-17
 * <a href='https://anzhiy.cn/posts/3753.html' target='_blank'>鱼塘朋友圈部署前端方案</a> - 2022-10-13
-* <a href='https://anzhiy.cn/posts/aa50.html' target='_blank'>vscode常用插件推荐</a> - 2022-09-28
 <!-- END_SECTION:blog -->
 
 </td>
