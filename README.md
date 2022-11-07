@@ -103,11 +103,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://anzhiy.cn/posts/e62b.html' target='_blank'>butterfly魔改关于页面</a> - 2022-11-05
 * <a href='https://anzhiy.cn/posts/b590.html' target='_blank'>解决 元素隐式具有 "any" 类型，因为类型为 "string" 的表达式不能用于索引类型 "Object"。 在类型 "Object" 上找不到具有类型为 "string" 的参数的索引签名</a> - 2022-11-03
 * <a href='https://anzhiy.cn/posts/c248.html' target='_blank'>即刻短文（瀑布流）部署方案</a> - 2022-10-26
 * <a href='https://anzhiy.cn/posts/4190.html' target='_blank'>Safari浏览器兼容正则表达式零宽断言</a> - 2022-10-19
 * <a href='https://anzhiy.cn/posts/4a9f.html' target='_blank'>vue朝花夕拾04</a> - 2022-10-18
-* <a href='https://anzhiy.cn/posts/88de.html' target='_blank'>vue朝花夕拾03</a> - 2022-10-17
 <!-- END_SECTION:blog -->
 
 </td>
