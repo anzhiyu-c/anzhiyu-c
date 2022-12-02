@@ -104,7 +104,7 @@
 
 <!-- START_SECTION:blog -->
 * <a href='https://anzhiy.cn/posts/d335.html' target='_blank'>为你的博客安装上便携小空调</a> - 2022-11-30
-* <a href='https://anzhiy.cn/posts/2785.html' target='_blank'>图床方案</a> - 2022-11-26
+* <a href='https://anzhiy.cn/posts/2785.html' target='_blank'>我的图床方案</a> - 2022-11-26
 * <a href='https://anzhiy.cn/posts/968f.html' target='_blank'>butterfly魔改本地搜索预览图</a> - 2022-11-20
 * <a href='https://anzhiy.cn/posts/1ed1.html' target='_blank'>解决vite模块化打包</a> - 2022-11-18
 * <a href='https://anzhiy.cn/posts/6c69.html' target='_blank'>butterfly魔改aplayer音乐</a> - 2022-11-13
