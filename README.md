@@ -129,16 +129,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 04 January 2023
+From: 06 December 2022 - To: 05 January 2023
 
-Total Time: 70 hrs 27 mins
+Total Time: 69 hrs 38 mins
 
-JavaScript   25 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   35.86 %
-CSS          11 hrs 22 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Markdown     9 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Pug          9 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-YAML         7 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-Stylus       3 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+JavaScript   25 hrs 20 mins  █████████░░░░░░░░░░░░░░░░   36.39 %
+CSS          11 hrs 17 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Markdown     9 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Pug          9 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+YAML         7 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Stylus       2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
