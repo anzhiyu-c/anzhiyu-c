@@ -103,11 +103,7 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://anzhiy.cn/posts/4c6a.html' target='_blank'>2022年度总结</a> - 2022-12-27
-* <a href='https://anzhiy.cn/posts/dd9.html' target='_blank'>[转载]还在用 JS 做节流吗？CSS 也可以防止按钮重复点击</a> - 2022-12-24
-* <a href='https://anzhiy.cn/posts/b019.html' target='_blank'>transform 支持单独赋值改变</a> - 2022-12-24
-* <a href='https://anzhiy.cn/posts/fd57.html' target='_blank'>css模糊羽化</a> - 2022-12-24
-* <a href='https://anzhiy.cn/posts/98c4.html' target='_blank'>butterfly文章顶部添加波浪效果</a> - 2022-12-21
+
 <!-- END_SECTION:blog -->
 
 </td>
