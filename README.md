@@ -130,16 +130,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 February 2023 - To: 09 March 2023
+From: 08 February 2023 - To: 10 March 2023
 
-Total Time: 96 hrs 52 mins
+Total Time: 101 hrs 32 mins
 
-JavaScript   18 hrs 13 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-TypeScript   17 hrs 49 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-CSS          14 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Vue.js       13 hrs 38 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-YAML         10 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-JSON         6 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+TypeScript   19 hrs 49 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+JavaScript   17 hrs 55 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Vue.js       17 hrs 35 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+CSS          13 hrs 50 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+YAML         10 hrs 11 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+JSON         6 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->
