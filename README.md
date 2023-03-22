@@ -103,11 +103,7 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://anzhiy.cn/posts/b228.html' target='_blank'>hexo博客工作流CI（一键部署的快乐）</a> - 2023-02-15
-* <a href='https://anzhiy.cn/posts/c3d3.html' target='_blank'>给你的博客加一个优雅的音乐界面</a> - 2023-02-10
-* <a href='https://anzhiy.cn/posts/d4d2.html' target='_blank'>操作系统复习题</a> - 2023-02-02
-* <a href='https://anzhiy.cn/posts/4c6a.html' target='_blank'>2022年度总结</a> - 2022-12-27
-* <a href='https://anzhiy.cn/posts/dd9.html' target='_blank'>[转载]还在用 JS 做节流吗？CSS 也可以防止按钮重复点击</a> - 2022-12-24
+
 <!-- END_SECTION:blog -->
 
 </td>
