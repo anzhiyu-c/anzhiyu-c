@@ -103,7 +103,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://anzhiy.cn/posts/ce04.html' target='_blank'>AnZhiYu主题安装文档（二）</a> - 2023-03-31
+* <a href='https://anzhiy.cn/posts/220c.html' target='_blank'>AnZhiYu主题安装文档（一）</a> - 2023-03-26
+* <a href='https://anzhiy.cn/posts/61e4.html' target='_blank'>AnZhiYu主题快速开始</a> - 2023-03-26
+* <a href='https://anzhiy.cn/posts/b228.html' target='_blank'>hexo博客工作流CI（一键部署的快乐）</a> - 2023-02-15
+* <a href='https://anzhiy.cn/posts/c3d3.html' target='_blank'>给你的博客加一个优雅的音乐界面</a> - 2023-02-10
 <!-- END_SECTION:blog -->
 
 </td>
