@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -21,7 +21,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
@@ -77,9 +77,9 @@
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
 <!-- metrics 基础资料 -->
