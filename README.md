@@ -83,7 +83,7 @@
 </p>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- GitHub奖杯🏆 -->
@@ -155,7 +155,7 @@ Vue.js          12 hrs 43 mins  ██░░░░░░░░░░░░░░
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
 </div>
 
