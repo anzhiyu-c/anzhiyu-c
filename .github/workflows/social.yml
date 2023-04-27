@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: anzhiyu-c/social-readme@master
+      - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://anzhiy.cn/atom.xml #your blog rss link
           blog_limit: 5 # blog数量
