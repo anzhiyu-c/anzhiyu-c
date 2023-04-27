@@ -104,7 +104,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://anzhiy.cn/posts/c27d.html' target='_blank'>AnZhiYu主题安装文档（四）</a> - 2023-04-20
+* <a href='https://anzhiy.cn/posts/acbc.html' target='_blank'>AnZhiYu主题安装文档（三）</a> - 2023-04-10
+* <a href='https://anzhiy.cn/posts/ce04.html' target='_blank'>AnZhiYu主题安装文档（二）</a> - 2023-03-31
+* <a href='https://anzhiy.cn/posts/220c.html' target='_blank'>AnZhiYu主题安装文档（一）</a> - 2023-03-26
+* <a href='https://anzhiy.cn/posts/61e4.html' target='_blank'>AnZhiYu主题快速开始</a> - 2023-03-26
 <!-- END_SECTION:blog -->
 
 </td>
