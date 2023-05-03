@@ -131,16 +131,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2023 - To: 30 April 2023
+From: 01 April 2023 - To: 01 May 2023
 
-Total Time: 142 hrs 54 mins
+Total Time: 142 hrs 47 mins
 
-Pug             27 hrs 47 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-YAML            21 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-JavaScript      18 hrs 5 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Markdown        17 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-TypeScript      16 hrs 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Vue.js          15 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Pug             28 hrs 5 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+YAML            20 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+JavaScript      18 hrs 18 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Markdown        17 hrs 57 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+TypeScript      16 hrs 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Vue.js          15 hrs 13 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
 ```
 
 <!--END_SECTION:waka-->
