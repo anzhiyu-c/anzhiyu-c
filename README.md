@@ -130,16 +130,16 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
-Total Time: 127 hrs 30 mins
+Total Time: 131 hrs 6 mins
 
-Stylus       21 hrs 46 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-JavaScript   21 hrs 11 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-TypeScript   20 hrs 32 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Vue.js       20 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-YAML         14 hrs 26 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Stylus       21 hrs 47 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+JavaScript   21 hrs 23 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+TypeScript   21 hrs 9 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Vue.js       21 hrs 6 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+YAML         14 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
 ```
 
 <!--END_SECTION:waka-->
