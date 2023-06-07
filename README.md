@@ -104,11 +104,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://anzhiy.cn/posts/d50a.html' target='_blank'>安知鱼主题标签 Tag Plugins</a> - 2023-06-01
-* <a href='https://anzhiy.cn/posts/b228.html' target='_blank'>hexo博客工作流CI（一键部署的快乐）</a> - 2023-02-15
-* <a href='https://anzhiy.cn/posts/c3d3.html' target='_blank'>给你的博客加一个优雅的音乐界面</a> - 2023-02-10
-* <a href='https://anzhiy.cn/posts/d4d2.html' target='_blank'>操作系统复习题</a> - 2023-02-02
-* <a href='https://anzhiy.cn/posts/4c6a.html' target='_blank'>2022年度总结</a> - 2022-12-27
+* <a href='https://blog.anheyu.com/posts/d50a.html' target='_blank'>安知鱼主题标签 Tag Plugins</a> - 2023-06-01
+* <a href='https://blog.anheyu.com/posts/b228.html' target='_blank'>hexo博客工作流CI（一键部署的快乐）</a> - 2023-02-15
+* <a href='https://blog.anheyu.com/posts/c3d3.html' target='_blank'>给你的博客加一个优雅的音乐界面</a> - 2023-02-10
+* <a href='https://blog.anheyu.com/posts/d4d2.html' target='_blank'>操作系统复习题</a> - 2023-02-02
+* <a href='https://blog.anheyu.com/posts/4c6a.html' target='_blank'>2022年度总结</a> - 2022-12-27
 <!-- END_SECTION:blog -->
 
 </td>
