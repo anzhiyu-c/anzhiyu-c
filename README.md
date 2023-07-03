@@ -104,7 +104,7 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.anheyu.com/posts/e140.html' target='_blank'>html 属性accesskey详细解析</a> - 2023-07-01
+* <a href='https://blog.anheyu.com/posts/e140.html' target='_blank'>html 属性Accesskey详细解析</a> - 2023-07-01
 * <a href='https://blog.anheyu.com/posts/39a9.html' target='_blank'>全新卡片式外链标签引入</a> - 2023-06-30
 * <a href='https://blog.anheyu.com/posts/a76e.html' target='_blank'>音乐meting自建api</a> - 2023-06-08
 * <a href='https://blog.anheyu.com/posts/d50a.html' target='_blank'>安知鱼主题标签 Tag Plugins</a> - 2023-06-01
