@@ -131,15 +131,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2023 - To: 05 August 2023
+From: 07 July 2023 - To: 06 August 2023
 
-Total Time: 133 hrs 17 mins
+Total Time: 128 hrs 41 mins
 
-Vue.js       31 hrs 43 mins  ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-TypeScript   16 hrs 48 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-Pug          15 hrs 42 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-JavaScript   15 hrs 34 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-YAML         14 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Vue.js       29 hrs 25 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+JavaScript   15 hrs 34 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Pug          15 hrs 32 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+TypeScript   15 hrs 24 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+YAML         14 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
 ```
 
 <!--END_SECTION:waka-->
