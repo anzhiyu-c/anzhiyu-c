@@ -104,11 +104,7 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.anheyu.com/posts/340b.html' target='_blank'>那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列</a> - 2023-08-27
-* <a href='https://blog.anheyu.com/posts/136a.html' target='_blank'>什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法</a> - 2023-08-26
-* <a href='https://blog.anheyu.com/posts/8105.html' target='_blank'>腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了</a> - 2023-08-19
-* <a href='https://blog.anheyu.com/posts/4eb4.html' target='_blank'>当AI加上PS后让我变的极为振奋(附mac安装ps beta25.0)教程</a> - 2023-08-18
-* <a href='https://blog.anheyu.com/posts/40fd.html' target='_blank'>CNAME解析至cf：分流解析cloudflare处理国外请求</a> - 2023-07-23
+
 <!-- END_SECTION:blog -->
 
 </td>
