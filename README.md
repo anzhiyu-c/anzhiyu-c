@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 29 October 2023
+From: 30 September 2023 - To: 30 October 2023
 
-Total Time: 127 hrs 22 mins
+Total Time: 134 hrs 52 mins
 
-Go               72 hrs 9 mins   ██████████████░░░░░░░░░░░   56.65 %
-Vue.js           40 hrs 39 mins  ████████░░░░░░░░░░░░░░░░░   31.92 %
-TypeScript       11 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-YAML             1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-PHP              16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Go               74 hrs 19 mins  █████████████▓░░░░░░░░░░░   55.09 %
+Vue.js           44 hrs 37 mins  ████████▒░░░░░░░░░░░░░░░░   33.07 %
+TypeScript       12 hrs 38 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+YAML             1 hr 40 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown         24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
