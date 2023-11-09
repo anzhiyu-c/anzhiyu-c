@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2023 - To: 06 November 2023
+From: 08 October 2023 - To: 07 November 2023
 
-Total Time: 160 hrs 4 mins
+Total Time: 161 hrs 56 mins
 
-Go               84 hrs 43 mins  █████████████▒░░░░░░░░░░░   52.86 %
-Vue.js           50 hrs 32 mins  ████████░░░░░░░░░░░░░░░░░   31.54 %
-TypeScript       14 hrs 38 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-YAML             5 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Pug              1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Go               85 hrs 24 mins  █████████████▒░░░░░░░░░░░   52.68 %
+Vue.js           50 hrs 32 mins  ███████▓░░░░░░░░░░░░░░░░░   31.17 %
+TypeScript       14 hrs 40 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+YAML             5 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Pug              1 hr 23 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
