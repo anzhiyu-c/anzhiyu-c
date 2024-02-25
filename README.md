@@ -127,12 +127,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 22 February 2024
+From: 24 January 2024 - To: 23 February 2024
 
-Total Time: 2 hrs 43 mins
+Total Time: 2 hrs 35 mins
 
-Go       2 hrs 32 mins   ███████████████████████▒░   93.09 %
-Vue.js   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Go       2 hrs 24 mins   ███████████████████████▒░   93.05 %
+Vue.js   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
