@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2024 - To: 03 March 2024
+From: 03 February 2024 - To: 04 March 2024
 
-Total Time: 6 hrs 42 mins
+Total Time: 6 hrs 37 mins
 
-Go           4 hrs 15 mins   ███████████████▓░░░░░░░░░   63.09 %
-Vue.js       1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Pug          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Go           4 hrs 10 mins   ███████████████▓░░░░░░░░░   62.66 %
+Vue.js       1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Pug          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
