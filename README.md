@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 05 June 2024
+From: 07 May 2024 - To: 06 June 2024
 
-Total Time: 7 hrs 32 mins
+Total Time: 8 hrs 24 mins
 
-CSS           2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Go            1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-Markdown      1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Vue.js        58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-YAML          53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+CSS           2 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+Go            1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Markdown      1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Vue.js        58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+JavaScript    57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
 ```
 
 <!--END_SECTION:waka-->
