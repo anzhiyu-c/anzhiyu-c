@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 18 July 2024
+From: 19 June 2024 - To: 19 July 2024
 
-Total Time: 121 hrs 53 mins
+Total Time: 121 hrs 7 mins
 
-Vue.js          41 hrs 44 mins  ████████░░░░░░░░░░░░░░░░░   32.41 %
-Go              27 hrs 33 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-TypeScript      19 hrs 32 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Docker          7 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Other           6 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Vue.js          36 hrs 43 mins  ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+Go              27 hrs 33 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+TypeScript      22 hrs 53 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Docker          7 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Other           6 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
