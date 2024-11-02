@@ -127,11 +127,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 30 October 2024
+From: 01 October 2024 - To: 31 October 2024
 
 Total Time: 35 hrs 52 mins
 
-Vue.js            14 hrs 37 mins  ██████████░░░░░░░░░░░░░░░   40.57 %
+Vue.js            14 hrs 37 mins  ██████████░░░░░░░░░░░░░░░   40.56 %
 HTML              7 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
 TypeScript        7 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
 JavaScript        2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
