@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2024 - To: 20 November 2024
+From: 22 October 2024 - To: 21 November 2024
 
-Total Time: 50 hrs 1 min
+Total Time: 50 hrs 43 mins
 
-Vue.js            36 hrs 38 mins  ██████████████████░░░░░░░   72.47 %
-HTML              8 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-TypeScript        3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Other             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-JavaScript        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Vue.js            37 hrs 15 mins  ██████████████████░░░░░░░   72.50 %
+HTML              8 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+TypeScript        4 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Other             40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JavaScript        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
