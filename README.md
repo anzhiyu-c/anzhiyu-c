@@ -127,15 +127,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 22 June 2025
+From: 24 May 2025 - To: 23 June 2025
 
-Total Time: 134 hrs 57 mins
+Total Time: 144 hrs 20 mins
 
-JavaScript      47 hrs 12 mins  ███████░░░░░░░░░░░░░░░░░░   27.64 %
-Other           35 hrs 53 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-Vue.js          24 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-TypeScript      24 hrs 39 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Go              19 hrs 1 min    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+JavaScript      48 hrs 6 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+Other           36 hrs 26 mins  █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Vue.js          28 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+TypeScript      26 hrs 32 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Go              21 hrs 42 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
 ```
 
 <!--END_SECTION:waka-->
