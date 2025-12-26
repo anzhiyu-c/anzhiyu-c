@@ -18,14 +18,14 @@
   <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=anzhiyu-c&color=blueviolet&style=flat-square&label=访客数" /></div>
+  <img src="https://komarev.com/ghpvc/?username=anzhiyu-c&color=blueviolet&style=flat-square" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -53,15 +53,18 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![electron](https://img.shields.io/badge/-electron-1B1C25?style=flat-square&logo=electron)
+![flutter](https://img.shields.io/badge/-flutter-red?style=flat-square&logo=flutter)
+![RN](https://img.shields.io/badge/-react%20native-blue?style=flat-square&logo=react)
 
 🧠 计划学习:
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
 
@@ -76,6 +79,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Cursor](https://img.shields.io/badge/-cursor-13130C?style=flat-square&logo=cursor)
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
@@ -110,13 +114,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [深入解析 CSS text-box-trim：精确控制文本垂直间距的新方案](https://blog.anheyu.com/posts/pHky)
 - [小鱼起始页：致敬五年前的那份初心](https://blog.anheyu.com/posts/TC1I)
 - [React 安全漏洞：一场连环翻车事故](https://blog.anheyu.com/posts/Abs0)
-- [anheyu-app 安装、迁移、备份图文教程](https://blog.anheyu.com/posts/rlCL)
-- [五一，武汉行](https://blog.anheyu.com/posts/BUj2)
-<!-- BLOG-POST-LIST:END -->
+- [anheyu-app安装、迁移、备份图文教程](https://blog.anheyu.com/posts/rlCL)
+- [五一，武汉行](https://blog.anheyu.com/posts/BUj2)<!-- BLOG-POST-LIST:END -->
 
 </td>
 <td valign="top">
@@ -124,9 +126,8 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
-- <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-- <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
+* <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
+* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
 <!-- END_SECTION:douban -->
 
 </td>
