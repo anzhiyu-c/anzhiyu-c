@@ -110,13 +110,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [深入解析 CSS text-box-trim：精确控制文本垂直间距的新方案](https://blog.anheyu.com/posts/pHky)
 - [小鱼起始页：致敬五年前的那份初心](https://blog.anheyu.com/posts/TC1I)
 - [React 安全漏洞：一场连环翻车事故](https://blog.anheyu.com/posts/Abs0)
-- [anheyu-app 安装、迁移、备份图文教程](https://blog.anheyu.com/posts/rlCL)
-- [五一，武汉行](https://blog.anheyu.com/posts/BUj2)
-<!-- BLOG-POST-LIST:END -->
+- [anheyu-app安装、迁移、备份图文教程](https://blog.anheyu.com/posts/rlCL)
+- [五一，武汉行](https://blog.anheyu.com/posts/BUj2)<!-- BLOG-POST-LIST:END -->
 
 </td>
 <td valign="top">
