@@ -18,7 +18,7 @@
   <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
+  <img src="https://komarev.com/ghpvc/?username=anzhiyu-c&color=blueviolet&style=flat-square&label=访客数" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
@@ -87,13 +87,13 @@
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy-tawny.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://readme-stats-fast.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!-- 最近博客和豆瓣动态 -->
@@ -113,8 +113,9 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
+
+- <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
+- <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
 <!-- END_SECTION:douban -->
 
 </table>
@@ -144,7 +145,7 @@ YAML                 4 hrs 2 mins    ▓░░░░░░░░░░░░░�
 </table>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anzhiyu-c&theme=xcode" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 

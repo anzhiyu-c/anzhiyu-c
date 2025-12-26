@@ -44,14 +44,15 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          plugin_achievements_limit: 0
 
           # 📰 Recent activity 最近活动
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 3
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 100
+          plugin_activity_visibility: public
 
           # 🎟️ Follow-up of issues and pull requests
           plugin_followup: yes
@@ -84,11 +85,13 @@ jobs:
 
           # 💡 Coding habits (编码习惯)
           plugin_habits: yes
-          plugin_habits_from: 200 # Use 200 events to compute habits
+          plugin_habits_from: 100 # Use 100 events to compute habits (reduced to avoid API limits)
           plugin_habits_days: 14 # Keep only events from last 14 days
           plugin_habits_facts: yes # Display facts section
           plugin_habits_charts: yes # Display charts section
           plugin_habits_trim: yes # Trim unused hours on daily chart
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
 
           # 🧑‍🤝‍🧑 People plugin 关注与被关注
           plugin_people: yes
@@ -101,7 +104,8 @@ jobs:
           plugin_people_shuffle: yes # Shuffle for varied output
 
           # 🗂️ Active projects 我的工程
-          plugin_projects: yes
+          # 注意：projects 插件需要 read:project 权限，如果没有配置 GitHub Projects 可以禁用
+          plugin_projects: no
           plugin_projects_limit: 3
 
           # 🌟 Recently starred repositories
@@ -118,7 +122,7 @@ jobs:
 
           # 🌇 GitHub Skyline 3D calendar 3D贡献图
           plugin_skyline: yes
-          plugin_skyline_year: current-year # Set to current-year to display current year (统计年份)
-          plugin_skyline_frames: 30 # Use 60 frames (half-loop) (半循环or全循环)
+          plugin_skyline_year: 0 # 0 表示当前年份
+          plugin_skyline_frames: 60 # 动画帧数
           plugin_skyline_quality: 0.5 # Set image quality (图片质量)
           plugin_skyline_compatibility: no # Support additional browsers (⚠️ increases file size and reduce optimization)
