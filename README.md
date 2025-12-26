@@ -21,7 +21,13 @@
   <img src="https://komarev.com/ghpvc/?username=anzhiyu-c&color=blueviolet&style=flat-square&label=访客数" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 # 🙋 Hello
 
@@ -113,8 +119,9 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
+
+- <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
+- <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
 <!-- END_SECTION:douban -->
 
 </table>

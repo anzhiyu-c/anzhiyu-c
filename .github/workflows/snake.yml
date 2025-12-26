@@ -4,12 +4,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
@@ -21,11 +23,16 @@ jobs:
         with:
           github_user_name: anzhiyu-c
           outputs: |
-            ./assets/github-contribution-grid-snake.gif
-            ./assets/github-contribution-grid-snake.svg?palette=github
+            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            ./assets/github-contribution-grid-snake.gif?color_snake=#15803d&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
           branch: main
-          message: 'Generate Contribution Snake'
+          message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
