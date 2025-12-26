@@ -53,15 +53,18 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![electron](https://img.shields.io/badge/-electron-1B1C25?style=flat-square&logo=electron)
+![flutter](https://img.shields.io/badge/-flutter-red?style=flat-square&logo=flutter)
+![RN](https://img.shields.io/badge/-react%20native-blue?style=flat-square&logo=react)
 
 🧠 计划学习:
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-2E67D3.svg?style=style=flat-square&logo=rust&logoColor=white)
 
