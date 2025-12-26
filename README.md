@@ -18,7 +18,7 @@
   <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=anzhiyu-c&color=blueviolet&style=flat-square&label=访客数" /></div>
+  <img src="https://komarev.com/ghpvc/?username=anzhiyu-c&color=blueviolet&style=flat-square" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
