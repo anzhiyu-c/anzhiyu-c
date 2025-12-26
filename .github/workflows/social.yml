@@ -2,7 +2,7 @@ name: Social Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -12,9 +12,9 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: anzhiyu-c/social-readme@main
+      - uses: anzhiyu-c/social-readme@master
         with:
-          blog_rss_link: https://anzhiyu-c.github.io/atom.xml
+          blog_rss_link: https://blog.anheyu.com/rss.xml
           blog_limit: 5 # blog数量
           douban_name: 252613592
           douban_limit: 5 # 豆瓣最新动态数量
