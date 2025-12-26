@@ -109,7 +109,14 @@
 
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
-<!-- BLOG-POST-LIST:START -->- [深入解析 CSS text-box-trim：精确控制文本垂直间距的新方案](https://blog.anheyu.com/posts/pHky) - 2025-18-23- [小鱼起始页：致敬五年前的那份初心](https://blog.anheyu.com/posts/TC1I) - 2025-11-11- [React 安全漏洞：一场连环翻车事故](https://blog.anheyu.com/posts/Abs0) - 2025-51-11- [anheyu-app安装、迁移、备份图文教程](https://blog.anheyu.com/posts/rlCL) - 2025-49-31- [五一，武汉行](https://blog.anheyu.com/posts/BUj2) - 2025-07-31<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+
+- [深入解析 CSS text-box-trim：精确控制文本垂直间距的新方案](https://blog.anheyu.com/posts/pHky) - 23 Dec 2025
+- [小鱼起始页：致敬五年前的那份初心](https://blog.anheyu.com/posts/TC1I) - 11 Dec 2025
+- [React 安全漏洞：一场连环翻车事故](https://blog.anheyu.com/posts/Abs0) - 11 Dec 2025
+- [anheyu-app 安装、迁移、备份图文教程](https://blog.anheyu.com/posts/rlCL) - 31 Oct 2025
+- [五一，武汉行](https://blog.anheyu.com/posts/BUj2) - 31 Oct 2025
+<!-- BLOG-POST-LIST:END -->
 
 </td>
 <td valign="top">
@@ -117,10 +124,13 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
+
+- <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
+- <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
 <!-- END_SECTION:douban -->
 
+</td>
+</tr>
 </table>
 
 <!-- wakatime 统计 -->

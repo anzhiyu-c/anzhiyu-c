@@ -20,8 +20,8 @@ jobs:
         with:
           feed_list: "https://blog.anheyu.com/atom.xml"
           max_post_count: 5
-          template: "- [$title]($url) - $date"
-          date_format: "yyyy-MM-dd"
+          template: "$newline- [$title]($url) - $date"
+          date_format: "dd MMM yyyy"
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
   # 更新豆瓣动态
