@@ -5,9 +5,9 @@
 name: GitHub metrics
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push: { branches: ['master', 'main'] }
+  push: { branches: ["master", "main"] }
 
 jobs:
   github-metrics:
@@ -24,7 +24,7 @@ jobs:
           user: anzhiyu-c
           template: classic
           config_timezone: Asia/Shanghai
-          base: 'header, activity, community, repositories'
+          base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
 
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: anzhiyu-c
           template: classic
-          base: ''
+          base: ""
           config_timezone: Asia/Shanghai
 
           # 🏆 Achievements 我的成就
@@ -70,12 +70,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css # List of languages to ignore (忽略语言)
           plugin_languages_skipped: anzhiyu-c # List of repositories to skip (忽略仓库)
-          plugin_languages_colors: '0:orange, javascript:#ff0000, ...' # Make most used languages orange and JavaScript red (语言配色)
-          plugin_languages_aliases: 'JavaScript:JS, TypeScript:TS, ...' # Customize languages names with aliases (重命名语言)
+          plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red (语言配色)
+          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases (重命名语言)
           plugin_languages_details: bytes-size, percentage # Additionally display total bytes size and percentage (显示大小和百分比)
           plugin_languages_threshold: 2% # Hides all languages less than 2% (隐藏占比较少的语言)
           plugin_languages_limit: 8 # Display up to 8 languages (显示的语言种数)
-          plugin_languages_sections: most-used, recently-used # Display most used and recently used languages stats
+          plugin_languages_sections: most-used # Display most used languages stats (recently-used disabled due to upstream bug)
           plugin_languages_indepth: no # Get indepth stats (see documentation before enabling)
           plugin_languages_categories: programming # Display only languages that match these categories in most-used section
           plugin_languages_recent_categories: markup, programming # Display only languages that match these categories in recently-used section
