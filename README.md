@@ -109,9 +109,8 @@
 
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </td>
 <td valign="top">
@@ -119,8 +118,9 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
+
+- <a href='https://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
+- <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
 <!-- END_SECTION:douban -->
 
 </table>

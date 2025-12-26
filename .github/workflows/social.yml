@@ -9,13 +9,31 @@ on:
       - main
 
 jobs:
-  update-social:
+  # 更新博客文章列表
+  update-blog:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.anheyu.com/atom.xml"
+          max_post_count: 5
+          template: "- [$title]($url) - $date"
+          date_format: "yyyy-MM-dd"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+  # 更新豆瓣动态
+  update-douban:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    needs: update-blog
     steps:
       - uses: anzhiyu-c/social-readme@master
         with:
-          blog_rss_link: https://blog.anheyu.com/rss.xml
-          blog_limit: 5 # blog数量
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           douban_name: 252613592
-          douban_limit: 5 # 豆瓣最新动态数量
-          commit_message: Updated social rss by social-readme # commit说明
+          douban_limit: 5
+          commit_message: "chore: update douban feeds"
