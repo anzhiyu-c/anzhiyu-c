@@ -7,12 +7,22 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push: { branches: ["master", "main"] }
+  push:
+    branches: ["master", "main"]
+    paths-ignore:
+      - "*.svg"
+      - "*.gif"
+      - "*.md"
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       # base metrics
       - name: base_metrics
         uses: lowlighter/metrics@latest
@@ -27,6 +37,7 @@ jobs:
           base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
+          output_condition: changed
 
       # plugin metrics
       - name: plugin_metrics
@@ -38,6 +49,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          output_condition: changed
 
           # 🏆 Achievements 我的成就
           plugin_achievements: yes
