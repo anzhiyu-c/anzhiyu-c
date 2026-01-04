@@ -142,15 +142,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 02 January 2026
+From: 04 December 2025 - To: 03 January 2026
 
-Total Time: 188 hrs 46 mins
+Total Time: 183 hrs 53 mins
 
-Vue.js                     69 hrs 55 mins  █████████░░░░░░░░░░░░░░░░   36.56 %
-Go                         54 hrs 22 mins  ███████░░░░░░░░░░░░░░░░░░   28.43 %
-TypeScript                 26 hrs 40 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-YAML                       8 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Markdown                   7 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Vue.js                     65 hrs 28 mins  ████████▓░░░░░░░░░░░░░░░░   35.12 %
+Go                         54 hrs 16 mins  ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+TypeScript                 26 hrs 35 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+YAML                       8 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Markdown                   7 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
