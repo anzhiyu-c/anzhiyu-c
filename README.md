@@ -114,11 +114,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [鱼鱼API 激活与使用指导](https://blog.anheyu.com/posts/gJHa)
+- [Codex使用指南](https://blog.anheyu.com/posts/Xtbx)
 - [鱼高高 - 一个无广告的微信小程序二维码生成器](https://blog.anheyu.com/posts/MrnO)
 - [2026年度AI工具大分享 | 五大方向深度对比解析](https://blog.anheyu.com/posts/ifDZ)
-- [Vue 3.6 Alien Signals 深度解析：信号驱动的响应式革命](https://blog.anheyu.com/posts/P9N3)
-- [深入解析 CSS text-box-trim：精确控制文本垂直间距的新方案](https://blog.anheyu.com/posts/pHky)
-- [小鱼起始页：致敬五年前的那份初心](https://blog.anheyu.com/posts/TC1I)<!-- BLOG-POST-LIST:END -->
+- [Vue 3.6 Alien Signals 深度解析：信号驱动的响应式革命](https://blog.anheyu.com/posts/P9N3)<!-- BLOG-POST-LIST:END -->
 
 </td>
 <td valign="top">
