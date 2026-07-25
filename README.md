@@ -114,11 +114,11 @@
 ### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [鱼鱼API 激活与使用指导](https://blog.anheyu.com/posts/gJHa)
-- [Codex使用指南](https://blog.anheyu.com/posts/Xtbx)
-- [鱼高高 - 一个无广告的微信小程序二维码生成器](https://blog.anheyu.com/posts/MrnO)
-- [2026年度AI工具大分享 | 五大方向深度对比解析](https://blog.anheyu.com/posts/ifDZ)
-- [Vue 3.6 Alien Signals 深度解析：信号驱动的响应式革命](https://blog.anheyu.com/posts/P9N3)<!-- BLOG-POST-LIST:END -->
+- [那些年用过的CSS奇妙用法之能用CSS就不用JS技巧系列](https://blog.anheyu.com/posts/340b.html)
+- [什么是CDN？它解决了什么难题？国内CDN加Vercel，无服务器使用办法](https://blog.anheyu.com/posts/136a.html)
+- [腾讯出品免费logo制作神器AI Logo,腾讯这次真的良心了](https://blog.anheyu.com/posts/8105.html)
+- [当AI加上PS后让我变的极为振奋&lpar;附mac安装ps beta25.0&rpar;教程](https://blog.anheyu.com/posts/4eb4.html)
+- [CNAME解析至cf：分流解析cloudflare处理国外请求](https://blog.anheyu.com/posts/40fd.html)<!-- BLOG-POST-LIST:END -->
 
 </td>
 <td valign="top">
