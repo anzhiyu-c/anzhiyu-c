@@ -142,15 +142,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2026 - To: 06 August 2026
+From: 08 July 2026 - To: 07 August 2026
 
-Total Time: 83 hrs 6 mins
+Total Time: 80 hrs 27 mins
 
-Go                39 hrs 49 mins        ███████████░░░░░░░░░░░░░░   44.06 %
-TypeScript        9 hrs 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Markdown          9 hrs 4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Other             7 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-YAML              5 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Go                39 hrs 16 mins        ███████████▒░░░░░░░░░░░░░   44.78 %
+Markdown          8 hrs 56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+TypeScript        8 hrs 35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Other             7 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+YAML              5 hrs 16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
