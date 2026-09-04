@@ -142,15 +142,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 01 September 2026
+From: 03 August 2026 - To: 02 September 2026
 
-Total Time: 91 hrs 6 mins
+Total Time: 85 hrs 47 mins
 
-Go                43 hrs 25 mins        ███████████░░░░░░░░░░░░░░   44.02 %
-Python            15 hrs 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-TypeScript        12 hrs 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Other             7 hrs 33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-YAML              4 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Go                40 hrs 50 mins        ███████████░░░░░░░░░░░░░░   43.83 %
+Python            15 hrs 47 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+TypeScript        11 hrs 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Other             7 hrs 23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+YAML              3 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
